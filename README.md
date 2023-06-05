@@ -11,7 +11,7 @@ relevance of artificial intelligence (AI) in the form of deep learning (DL) has
 revolutionized new methods of automated medical image diagnosis. This study aimed
 to develop a robust and efficient method based on transfer learning technique for
 classifying Parkinson’s disease using MRI. In this article, the popular deep learning
-architectures are utilized to develop Parkinson’s disease diagnostic system..
+architectures are utilized to develop Parkinson’s disease diagnostic system.
 • The experiment was performed using two benchmark datasets that are openly
 accessible from the web. Images from the dataset were first cropped, preprocessed,
 and augmented for accurate and fast training.
@@ -39,8 +39,7 @@ contrast.
 ## Proposed System
 • The proposed system has mainly five modules. Dataset, Pre-processing, Split the
 data, Build CNN model train Deep Neural network for epochs, and classification.
-• In dataset we can take multiple MRI images and take one as input image. In preprocessing image to encoded the label and resize the image. In split the data we set
-the image as 80% Training Data and 20% Testing Data.
+• In dataset we can take multiple MRI images and take one as input image. In preprocessing image to encoded the label and resize the image. In split the data we set the image as 80% Training Data and 20% Testing Data.
 • Then build CNN model train deep neural network for epochs. Then classified the
 image as yes or no if PD is positive then it returns yes and the PD is negative the it
 returns no. The proposed framework model includes four stages.
